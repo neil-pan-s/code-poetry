@@ -20,7 +20,6 @@
 以 Carbon 生成对应的代码图片，在线代码图片生成器 Carbon 传送门：[👀这里](https://carbon.now.sh)。
 
 <br/>
-<br/>
 
 ## 奖项设置
 
@@ -32,5 +31,6 @@
 
 20190610 - 20191111
 
+<br/>
 
-> 活动源自 [掘金沸点-代码写诗](https://juejin.im/topic/5b6a82c6092dcb61bd728809)
+> via: [掘金沸点-代码写诗](https://juejin.im/topic/5b6a82c6092dcb61bd728809)
