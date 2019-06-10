@@ -24,7 +24,18 @@
 ## 奖项设置
 
 每个奖项周期内，Issues获得 👍 的排名前三的小伙伴将获得相关奖品，包括 #代码情诗# 定制款T恤或贴纸。
+
+![T恤-白色](./tshirt-white.png)
+![T恤-黑色](./tshirt-white.png)
+![卫衣-黑色](./hoodies.png)
+
   
+### 奖项赞助
+
+本活动所有礼品由 [壹周边](http://one-press.cn) 提供！
+
+![公众号二维码](./qrcode_for_gh_b43c000173fe_344.jpg)
+
 <br/>
   
 ## 活动时间
