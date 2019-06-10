@@ -26,7 +26,7 @@
 每个奖项周期内，Issues获得 👍 的排名前三的小伙伴将获得相关奖品，包括 #代码情诗# 定制款T恤或贴纸。
 
 ![T恤-白色](./tshirt-white.png)
-![T恤-黑色](./tshirt-white.png)
+![T恤-黑色](./tshirt-black.png)
 ![卫衣-黑色](./hoodies.png)
 
   
