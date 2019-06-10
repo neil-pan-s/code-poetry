@@ -10,6 +10,12 @@
   * **代码写决绝诗**
 
 以 Carbon 生成对应的代码图片，在线代码图片生成器 Carbon 传送门：[👀这里](https://carbon.now.sh)。
+
+### 示例
+···
+  ![example](./example.png)
+  此生爱你 只增不减
+···
   
 <br/>
 <br/>
